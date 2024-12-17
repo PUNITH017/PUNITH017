@@ -1,3 +1,3 @@
 - 👋 Hi, I’m PUNITH
 - Local:   http://localhost:5173/
-- Building : https://raghu-studio.vercel.app/
+- Built : https://www.raghustudio.com/
